@@ -13,10 +13,8 @@
 *  **OS Development:** RISC-V Linux Operating Systems development during the National Summer School of Microtechnology at CIC-IPN.
 *  **Foundational Skills:** Solid introductory knowledge in cybersecurity and virtualization, which act as complementary skills to my primary technical strengths.
 *  **Certifications:** Microsoft Azure AI-900 (2026), Cisco Networking Basics for CCST (2026), and Cisco Cybersecurity Fundamentals (2026).
-*  **Languages:** I can communicate in Spanish and English (C1 level)!
 
 ---
 
 ##  Portfolio Structure
-
 ### This related repository showcases some of my engineering projects in cluster infrastructure automation, digital hardware design, encryption, and other fields.
