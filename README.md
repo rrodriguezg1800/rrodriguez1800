@@ -45,7 +45,6 @@ Below, I highlight the key projects and development areas that reflect my practi
 
 ---
 
-## 📫 Contact and Languages
+## Contact and Languages
 
 *   **Email:** rrodriguezg1800@alumno.ipn.mx[cite: 1]
-*   **Languages:** English C1 (Oral and written communication)[cite: 1]
