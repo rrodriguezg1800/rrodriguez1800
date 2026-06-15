@@ -4,7 +4,7 @@
 
 ---
 
-## ⚙️ Highlights & Experience
+##  Highlights & Experience
 
 *  **Academic Progression:** Recent graduate and current Master's applicant for Computer Science Engineering (MCIC) and Mobile Computing programs at IPN.
 *  **Professional Project:** Configuration Management and Automation with Ansible in Linux Clusters at the Technological Integration Department, CIC-IPN[cite: 1].
@@ -19,4 +19,4 @@
 
 ##  Portfolio Structure
 
-### *This repository gathers all of my technical projects, certifications, and contributions in network infrastructure, Linux administration, and automation.*
+### This repository gathers all of my technical projects, certifications, and contributions in network infrastructure, Linux administration, and automation.*
